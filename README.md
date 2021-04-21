@@ -6,3 +6,4 @@ css/scss 연습.
 1. [ ] https://besthorrorscenes.com/
 2. [x] https://paint-box.com/
 - 사이즈 맞추기, shop 추가하기
+3. [] http://10x19.co/
